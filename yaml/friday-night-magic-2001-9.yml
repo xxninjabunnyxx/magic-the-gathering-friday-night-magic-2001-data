@@ -1,0 +1,113 @@
+---
+object: card
+id: a7a64413-ab7b-4f0d-8e9a-3d1fbe66a99f
+oracle_id: 3ecaefc8-ead2-47a3-a7ea-b030faab65a7
+multiverse_ids: []
+tcgplayer_id: 38142
+cardmarket_id: 15789
+name: Quirion Ranger
+lang: en
+released_at: '2001-01-01'
+uri: https://api.scryfall.com/cards/a7a64413-ab7b-4f0d-8e9a-3d1fbe66a99f
+scryfall_uri: https://scryfall.com/card/f01/9/quirion-ranger?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/7/a7a64413-ab7b-4f0d-8e9a-3d1fbe66a99f.jpg?1561757775
+  normal: https://cards.scryfall.io/normal/front/a/7/a7a64413-ab7b-4f0d-8e9a-3d1fbe66a99f.jpg?1561757775
+  large: https://cards.scryfall.io/large/front/a/7/a7a64413-ab7b-4f0d-8e9a-3d1fbe66a99f.jpg?1561757775
+  png: https://cards.scryfall.io/png/front/a/7/a7a64413-ab7b-4f0d-8e9a-3d1fbe66a99f.png?1561757775
+  art_crop: https://cards.scryfall.io/art_crop/front/a/7/a7a64413-ab7b-4f0d-8e9a-3d1fbe66a99f.jpg?1561757775
+  border_crop: https://cards.scryfall.io/border_crop/front/a/7/a7a64413-ab7b-4f0d-8e9a-3d1fbe66a99f.jpg?1561757775
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Creature — Elf Ranger
+oracle_text: 'Return a Forest you control to its owner''s hand: Untap target creature.
+  Activate only once each turn.'
+power: '1'
+toughness: '1'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 1edf0887-20de-4e75-bce3-45d842f0066d
+set: f01
+set_name: Friday Night Magic 2001
+set_type: promo
+set_uri: https://api.scryfall.com/sets/1edf0887-20de-4e75-bce3-45d842f0066d
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Af01&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/f01?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a7a64413-ab7b-4f0d-8e9a-3d1fbe66a99f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3ecaefc8-ead2-47a3-a7ea-b030faab65a7&unique=prints
+collector_number: '9'
+digital: false
+rarity: rare
+flavor_text: |-
+  "I went to the woods because I wished to live deliberately."
+  —Henry David Thoreau, *Walden*
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Tom Kyffin
+artist_ids:
+- 8f43afbf-ce7e-4c01-8815-6d51eaa801cd
+illustration_id: d2e77b5d-32dc-4337-8a83-88b586526dfb
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+- fnm
+edhrec_rank: 1283
+penny_rank: 308
+prices:
+  usd: 
+  usd_foil: '136.66'
+  usd_etched: 
+  eur: 
+  eur_foil: '84.90'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Quirion+Ranger&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Quirion+Ranger&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Quirion+Ranger
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38142?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Quirion+Ranger&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Quirion+Ranger&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
